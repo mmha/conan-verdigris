@@ -1,4 +1,4 @@
-[ ![Download](https://api.bintray.com/packages/mmha/conan/verdigris/images/download.svg) ](https://bintray.com/mmha/conan/verdigris/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/mmha/conan/verdigris%3Ammha/images/download.svg) ](https://bintray.com/mmha/conan/verdigris%3Ammha/_latestVersion)
 # Qt without moc: set of macros to use Qt without needing moc
 
 [Conan.io](https://conan.io) package for [verdigris](https://github.com/woboq/verdigris) project
